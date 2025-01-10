@@ -8,7 +8,7 @@ const About1Content = () => {
           Hi, There <span className="wave">👋🏻</span>
         </p>
         <div>
-          I'M <span className="hover-highlight text-[#f6cfcf]">MAY THIT HTUN</span>
+          <span className="hover-highlight text-[#f6cfcf]">EcoSprout</span>
         </div>
         <Text />
         <a

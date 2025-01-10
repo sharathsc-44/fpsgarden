@@ -25,14 +25,14 @@ const Intro = () => {
       className=" overflow-y-auto overflow-x-hidden fixed bottom-0 left-0 z-[200] justify-center flex items-center w-full h-full pb-28">
       <div
         ref={infoModelRef}
-        className="p-6 w-full max-w-lg bg-[#809D3C] border-3 border-white rounded-lg"
+        className="p-6 w-full max-w-lg bg-[#809D3C] border-5 border-white rounded-lg"
       >
-        <p className="text-base leading-relaxed text-[#3E3232]">
-          🌟<span className="font-bold "> Welcome "USERNAME HERE" to your DIGITAL HOME ></span> 🌟
+        <p className="text-base leading-relaxed text-[#ffffff]">
+          🌟<span className="font-bold "> Welcome SHARATH to your DIGITAL HOME </span> 🌟
           <br/>
           <br />
           ⚠️ Please remember to press the{" "}
-          <span className="p-1 bg-[#ffffff44] border-5 border-white rounded-lg">Esc</span> key
+          <span className="p-1 bg-[#ffffff44] border-3 border-black rounded-lg">Esc</span> key
           before starting a TOUR.
           <br />
           🖱️ Feel free to explore and enjoy your Second HOME 
